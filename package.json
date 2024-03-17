@@ -1,0 +1,30 @@
+{
+  "name": "wulskuuuu",
+  "version": "3.0.3",
+  "description": "Backpack exchange typescript client",
+  "main": "lib/backpack_client.js",
+  "license": "MIT",
+  "types": "lib/backpack_client.d.ts",
+  "homepage": "https://github.com/laibujixiang2/wulskuuuu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laibujixiang2/wulskuuuu"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prebuild": "yarn clean",
+    "clean": "rimraf lib"
+  },
+  "dependencies": {
+   "bicycle-moose": "^1.0.1",
+   "nymuuwkhjh": "^3.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "@types/qs": "^6.9.7",
+    "@types/ws": "^8.5.10",
+    "rimraf": "^3.0.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
+}
