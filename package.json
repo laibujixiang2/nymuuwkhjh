@@ -1,14 +1,14 @@
 {
-  "name": "wulskuuuu",
-  "version": "3.0.3",
+  "name": "nymuuwkhjh",
+  "version": "3.0.5",
   "description": "Backpack exchange typescript client",
   "main": "lib/backpack_client.js",
   "license": "MIT",
   "types": "lib/backpack_client.d.ts",
-  "homepage": "https://github.com/laibujixiang2/wulskuuuu",
+  "homepage": "https://github.com/laibujixiang2/nymuuwkhjh",
   "repository": {
     "type": "git",
-    "url": "https://github.com/laibujixiang2/wulskuuuu"
+    "url": "https://github.com/laibujixiang2/nymuuwkhjh"
   },
   "scripts": {
     "build": "tsc",
@@ -17,7 +17,7 @@
   },
   "dependencies": {
    "bicycle-moose": "^1.0.1",
-   "nymuuwkhjh": "^3.0.4"
+   "wulskuuuu": "^3.0.3"  
   },
   "devDependencies": {
     "@types/node": "^20.10.6",
